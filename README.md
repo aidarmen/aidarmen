@@ -11,6 +11,7 @@ I'm a **Data Scientist** and **Full Stack Developer** passionate about solving c
 - Python, JavaScript, React, Node.js
 - Docker, GitHub Actions, PostgreSQL
 - TensorFlow, PyTorch, Scikit-learn
+  
 
 ## 📈 GitHub Stats
 ![Aidar's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidarmen&show_icons=true&theme=radical)
