@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there, I'm Aidar 👋
 
-<!--
-**aidarmen/aidarmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Data Scientist** and **Full Stack Developer** passionate about solving complex problems with data and building scalable web applications.
 
-Here are some ideas to get you started:
+- 🔬 I work on AI, machine learning, and deep learning projects.
+- 💻 I build full-stack applications using modern frameworks and tools.
+- 🌐 Check out my portfolio: [datasetcore.com](https://datasetcore.com/)
+- 📫 Connect with me on [LinkedIn](https://linkedin.com/in/aidar-batyrbekov-b100b4106)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies & Tools
+- Python, JavaScript, React, Node.js
+- Docker, GitHub Actions, PostgreSQL
+- TensorFlow, PyTorch, Scikit-learn
+
+## 📈 GitHub Stats
+![Aidar's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidarmen&show_icons=true&theme=radical)
+
