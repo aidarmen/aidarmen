@@ -10,7 +10,7 @@ I'm a **Data Scientist** and **Full Stack Developer** passionate about solving c
 ## 🚀 Technologies & Tools
 - Python, JavaScript, React, Node.js, Go, Java
 - Docker, GitHub Actions, PostgreSQL
-- TensorFlow, PyTorch, Scikit-learn
+- TensorFlow, PyTorch, Scikit-learn, Keras
   
 
 ## 📈 GitHub Stats
