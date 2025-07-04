@@ -8,7 +8,7 @@ I'm a **Data Scientist** and **Full Stack Developer** passionate about solving c
 - 📫 Connect with me on [LinkedIn](https://linkedin.com/in/aidar-batyrbekov-b100b4106)
 
 ## 🚀 Technologies & Tools
-- Python, JavaScript, React, Node.js
+- Python, JavaScript, React, Node.js, Go
 - Docker, GitHub Actions, PostgreSQL
 - TensorFlow, PyTorch, Scikit-learn
   
